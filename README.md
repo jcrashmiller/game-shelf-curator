@@ -18,7 +18,7 @@ GUI with thegamesdb and steam scraper to easily add games to new or existing peg
 
 # Considerations
 - Scrapes thegamesdb.net and store.steampowered.com
-    ==Please do not overload their servers==
+    **Please do not overload their servers**
 
 ## Note
 As the screenshots from thegamesdb.net and NCAA 2K2 are used for demonstration purposes, it is believed they are used within fair use doctrine.  All trademarks are the property of their respective owners.
